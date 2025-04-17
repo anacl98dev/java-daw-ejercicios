@@ -1,4 +1,4 @@
-# java-daw-ejercicios 💻📚
+# # Ejercicios de Programación en Java – 1º DAW 💻📚
 
 Repositorio de ejercicios de programación en Java realizados durante el primer curso del Grado Superior de DAW.  
 Organizado por temas y numerado para facilitar el orden y la navegación.
