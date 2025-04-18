@@ -12,7 +12,7 @@ Organizado por temas y numerado para facilitar el orden y la navegación.
 - `05-poo/` – *(Próximamente)* Principios básicos de la Programación Orientada a Objetos.
 - `06-ficheros/` – *(Próximamente)* Lectura y escritura de archivos en Java.
 - `07-jdbc/` – *(Próximamente)* Conexión a bases de datos desde Java con JDBC.
-
+- `08-retos/` – *(Próximamente)* Pequeños retos de programación para consolidar lo aprendido.
 ---
 
 **Hecho con paciencia, esfuerzo y pasión por aprender 🌱**
