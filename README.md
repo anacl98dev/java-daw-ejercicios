@@ -8,7 +8,7 @@ Organizado por temas y numerado para facilitar el orden y la navegación.
 - [01-introduccion](./01-introduccion/) - Primeros pasos con Java: entrada y salida por consola, tipos de datos, operaciones básicas.
 - [02-condicionales](./02-condicionales/) – Uso de estructuras `if`, `else`, `switch` para tomar decisiones.
 - [03-bucles](./03-bucles/) – Repetición de instrucciones con `while`, `do-while` y `for`.
-- `04-arrays` – *(Próximamente)* Declaración, recorrido y manipulación de arrays.
+- [04-arrays](04-arrays) – Declaración, recorrido y manipulación de arrays.
 - `05-poo` – *(Próximamente)* Principios básicos de la Programación Orientada a Objetos.
 - `06-ficheros` – *(Próximamente)* Lectura y escritura de archivos en Java.
 - `07-jdbc` – *(Próximamente)* Conexión a bases de datos desde Java con JDBC.
